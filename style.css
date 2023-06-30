@@ -1,0 +1,40 @@
+.heading
+{
+    margin-top: 0;
+    background-color: orange;
+    font-size: 28px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px grey;
+    font-family: 'Caveat', cursive;
+}
+
+.note
+{
+    font-size: 17px;
+    color: white;
+    font-family: 'Caveat', cursive;
+}
+
+.copy_right_footer
+{
+    color: white;
+    position: fixed;
+    bottom: 0;
+    line-height: 3px;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+    font-family: 'Dancing Script', cursive;
+    height: 40px;
+    font-size: 17px;
+}
+
+canvas
+{
+    border: 5px dashed ghostwhite;
+    border-radius: 15px;
+    box-shadow: 5px 5px 5px grey;
+    display: inline;
+    padding-right: 50px;
+}
